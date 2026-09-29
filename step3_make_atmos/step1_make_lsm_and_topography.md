@@ -38,7 +38,7 @@ Output: `LP_lsm.nc` binary (0 = ocean, 1 = land) land-sea mask
 
 ---
 
-### 2. Creating the atmospheric topography
+### 2. Creating Orography
 
 The atmospheric UM configuration requires topography on the atmospheric model grid. The Pliocene topography is first expressed as a change relative to the modern topography, then interpolated to the UM atmospheric grid and added to the original UM topography.
 
