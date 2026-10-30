@@ -1,4 +1,4 @@
-*Instructions here have copied from Zikun Ren's [workflow](https://github.com/PalaeoClimateModellingUK/paleoclimate_HadGEM3_UoB/blob/main/Coupling_weights_generation/GC3.1_coupling_weights_generation_workflow.md).*
+*Instructions here have been copied from Zikun Ren's [workflow](https://github.com/PalaeoClimateModellingUK/paleoclimate_HadGEM3_UoB/blob/main/Coupling_weights_generation/GC3.1_coupling_weights_generation_workflow.md).*
 
 # generate coupling weights from the mesh_mask.nc
 
