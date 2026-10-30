@@ -4,6 +4,8 @@
 
 ## 1. Move mesh_mask.nc to MONSOON3
 `rsync -avu mesh_mask.nc <monsoon3 host name>:<your directory to store mesh_mask>`
+
+information on how to setup the transfer: (https://code.metoffice.gov.uk/doc/monsoon3/data_transfers.html#data-transfers)
 ## 2. check out updated coupling_weight suite.
 `rosie co u-dy998`
 ## 3. change the IGRID1 file with your mesh_mask.nc path
